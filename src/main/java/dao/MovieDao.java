@@ -11,6 +11,9 @@ import org.springframework.jdbc.core.ResultSetExtractor;
 import mypack.Movie;
 import mypack.Show;
 
+
+
+
 public class MovieDao {
 	JdbcTemplate template;  
 	  
